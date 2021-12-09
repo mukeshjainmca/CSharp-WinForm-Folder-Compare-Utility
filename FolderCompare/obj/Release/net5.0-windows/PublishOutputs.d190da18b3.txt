@@ -1,0 +1,5 @@
+C:\Mukesh\Folder Compare\FolderCompare.exe
+C:\Mukesh\Folder Compare\FolderCompare.dll
+C:\Mukesh\Folder Compare\FolderCompare.deps.json
+C:\Mukesh\Folder Compare\FolderCompare.runtimeconfig.json
+C:\Mukesh\Folder Compare\FolderCompare.pdb
